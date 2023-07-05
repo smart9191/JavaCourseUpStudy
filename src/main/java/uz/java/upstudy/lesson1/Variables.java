@@ -19,6 +19,7 @@ public class Variables {
         System.out.println("l = " + l);
         System.out.println("d = " + d);
         System.out.println("b = " + b);
+        System.out.println(i+d);
 
     }
 }
